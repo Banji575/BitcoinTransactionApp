@@ -1,0 +1,19 @@
+{
+  "name": "lernbtctransaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip32": "^3.0.1",
+    "bitcoinjs-lib": "3.3.2",
+    "ecpair": "^2.0.1",
+    "node-fetch": "^3.2.4",
+    "tiny-secp256k1": "^2.2.1"
+  }
+}
